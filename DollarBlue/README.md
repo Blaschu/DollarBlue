@@ -1,4 +1,4 @@
-El objetivo prenciopal de este proyecto es aprender a consumir la API de "https://bluelytics.com.ar/#!/api"
-El objetivo secundiario es crear una pagina web con react+vite que sea esteticamente elegante
-El objetivo terciario es que la gente pueda utilizar esta pagina web para averiguar el precio de la cotizacion del dolar,
-los precios hitoricos y una grafica del precio del precio.
+Objetivos del Proyecto
+Objetivo Principal: Aprender a consumir la API de Bluelytics.
+Objetivo Secundario: Crear una página web con React y Vite que sea estéticamente atractiva.
+Objetivo Terciario: Permitir a los usuarios consultar el precio del dólar, acceder a precios históricos y visualizar una gráfica de las cotizaciones.
